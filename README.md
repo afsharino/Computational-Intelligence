@@ -2,12 +2,13 @@
 
 <img src="./Images/machine-learning-banner.png" width="800">
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/afsharino/Computational-Intelligence/main?color=%23E6E6FA)
-![GitHub contributors](https://img.shields.io/github/contributors/afsharino/Computational-Intelligence?color=%238A2BE2)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/afsharino/Computational-Intelligence/main)
+![GitHub contributors](https://img.shields.io/github/contributors/afsharino/Computational-Intelligence)
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/afsharino/Computational-Intelligence?color=%23D8BFD8)
-![GitHub repo size](https://img.shields.io/github/repo-size/afsharino/Computational-Intelligence?color=%239932CC)
-![GitHub Repo stars](https://img.shields.io/github/stars/afsharino/Computational-Intelligence?color=%239370DB)
-![GitHub License](https://img.shields.io/github/license/afsharino/Computational-Intelligence?color=%23BDB5D5)
+![GitHub repo size](https://img.shields.io/github/repo-size/afsharino/Computational-Intelligence)
+![GitHub Repo stars](https://img.shields.io/github/stars/afsharino/Computational-Intelligence)
+![GitHub License](https://img.shields.io/github/license/afsharino/Computational-Intelligence)
+
 
 Welcome to the Fundamentals of Computational Intelligence course repository! This repository contains curated materials for an introductory course on computational intelligence, designed to provide you with a solid foundation in machine learning concepts and algorithms. Whether you're a student in our TA-led classes at Ferdowsi University of Mashhad (FUM) or an enthusiastic learner, we're here to guide you through the exciting world of machine learning.
 
