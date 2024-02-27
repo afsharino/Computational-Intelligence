@@ -27,10 +27,12 @@ Welcome to the Fundamentals of Computational Intelligence course repository! Thi
 - [How to Contribute](#how-to-contribute)
 - [Contact Me](#contact-me)
 
+<a id="overview"></a>
 ## Overview 👀
 
 This course covers a wide range of topics in Machine Learning, including unsupervised learning, decision trees, support vector machines, perceptron, multilayer perceptron, convolutional neural networks (CNN), natural language processing (NLP), and ensemble classifiers. Each section includes lectures and assignments, providing a comprehensive guide to machine learning concepts and algorithms.
 
+<a id="getting-started"></a>
 ## Getting Started 🚀
 
 1. **Clone the Repository:**
@@ -45,41 +47,61 @@ This course covers a wide range of topics in Machine Learning, including unsuper
 3. **Explore the Content:**
     - Review lectures and assignments in each section.
 
+<a id="repository-structure"></a>
 ## Repository Structure 📂
+
 - 📁 Computational-Intelligence
   - 📄 README.md
   - 📁 Contents
+
+    <a id="unsupervised-learning"></a>
     - 📁 unsupervised-learning
       - 📁 Lectures
       - 📁 Assignments
+
+    <a id="decision-trees"></a>
     - 📁 decision-trees
       - 📁 Lectures
       - 📁 Assignments
+
+    <a id="support-vector-machines"></a>
     - 📁 support-vector-machines
       - 📁 Lectures
       - 📁 Assignments
+
+    <a id="perceptron"></a>
     - 📁 perceptron
       - 📁 Lectures
       - 📁 Assignments
+
+    <a id="multilayer-perceptron"></a>
     - 📁 multilayer-perceptron
       - 📁 Lectures
       - 📁 Assignments
+
+    <a id="convolutional-neural-networks-cnn"></a>
     - 📁 cnn
       - 📁 Lectures
       - 📁 Assignments
+
+    <a id="natural-language-processing-nlp"></a>
     - 📁 nlp
       - 📁 Lectures
       - 📁 Assignments
+
+    <a id="ensemble-classifiers"></a>
     - 📁 ensemble-classifiers
       - 📁 Lectures
       - 📁 Assignments
 
-
-
+<a id="how-to-contribute"></a>
 ## How to Contribute 🤝
+
 We welcome contributions! Whether it's fixing a typo or adding new content, Simply open a pull request, and upon review, we'll merge it into the repository if it aligns with our standards.
 
+<a id="contact-me"></a>
 ## Contact Me 📬
+
 Your feedback is valuable! Feel free to reach out with questions, suggestions, or concerns by contacting to me on Telegram at [@afsharino](https://t.me/afsharino).
 
 Happy coding! 🚀
