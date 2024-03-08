@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}تبدیل از مبنای ۱۰ به مبنای \lr {r} و بلعکس}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}اعداد زیر در مبنای ۱۰ را در مبنای خواسته شده بنویسید.}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}تبدیل مبناهای ۸ و ۱۶}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}عنوان سوال دوم}{2}{section.2}%
+\contentsline {section}{\numberline {3}عنوان سوال سوم}{2}{section.3}%
+\contentsline {section}{\numberline {4}عنوان سوال چهارم}{2}{section.4}%
+\contentsline {section}{\numberline {5}معادل مبنای \lr {r} ارقام دهدهی}{2}{section.5}%
+\contentsline {section}{\numberline {6}عنوان سوال ششم}{2}{section.6}%
+\contentsline {subsection}{\numberline {6.1}عنوان بخش اول سوال ششم}{3}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}عنوان بخش دوم سوال ششم}{3}{subsection.6.2}%
+\contentsline {section}{\numberline {7}عنوان سوال هفتم}{3}{section.7}%
+\contentsline {section}{\numberline {8}عنوان سوال هشتم}{4}{section.8}%
+\contentsline {section}{\numberline {9}ضمیمه}{4}{section.9}%
